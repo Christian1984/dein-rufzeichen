@@ -1,0 +1,37 @@
+{
+  "name": "dein-rufzeichen",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@mantine/core": "^7.15.0",
+    "@mantine/dates": "^7.15.0",
+    "@mantine/form": "^7.14.3",
+    "@mantine/hooks": "^7.15.0",
+    "@tabler/icons-react": "^3.24.0",
+    "dayjs": "^1.11.13",
+    "leaflet": "^1.9.4",
+    "mantine-react-table": "^1.3.4",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "zustand": "^5.0.2"
+  },
+  "devDependencies": {
+    "@types/leaflet": "^1",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.4",
+    "postcss": "^8.4.49",
+    "postcss-preset-mantine": "1.17.0",
+    "postcss-simple-vars": "^7.0.1",
+    "typescript": "^5.7.2",
+    "vite": "^6.0.1"
+  },
+  "packageManager": "yarn@4.5.3"
+}
