@@ -1,4 +1,4 @@
 export type CallsignsData = {
-  callsigns: string[];
-  updated: string;
+    callsigns: string[];
+    updated: string;
 };

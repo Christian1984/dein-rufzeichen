@@ -1,16 +1,16 @@
 {
-  "name": "rufzeichen-importer",
-  "version": "1.0.0",
-  "main": "src/index.ts",
-  "license": "MIT",
-  "scripts": {
-    "start": "ts-node src/index.ts"
-  },
-  "dependencies": {
-    "node-fetch": "^3.3.2",
-    "pdf.js-extract": "^0.2.1"
-  },
-  "devDependencies": {
-    "@types/node": "^22.10.1"
-  }
+    "name": "rufzeichen-importer",
+    "version": "1.0.0",
+    "main": "src/index.ts",
+    "license": "MIT",
+    "scripts": {
+        "start": "ts-node src/index.ts"
+    },
+    "dependencies": {
+        "node-fetch": "^3.3.2",
+        "pdf.js-extract": "^0.2.1"
+    },
+    "devDependencies": {
+        "@types/node": "^22.10.1"
+    }
 }
